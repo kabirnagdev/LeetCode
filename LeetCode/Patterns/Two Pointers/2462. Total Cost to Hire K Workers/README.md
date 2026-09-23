@@ -1,6 +1,6 @@
 # 📝 2462. Total Cost to Hire K Workers (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/total-cost-to-hire-k-workers/?envType=study-plan-v2&envId=leetcode-75)
+🔗 [Problem Link](https://leetcode.com/problems/total-cost-to-hire-k-workers)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
