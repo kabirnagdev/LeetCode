@@ -1,6 +1,6 @@
 # 📝 3550. Smallest Index With Digit Sum Equal to Index (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/?envType=daily-question&envId=2026-09-24)
+🔗 [Problem Link](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
