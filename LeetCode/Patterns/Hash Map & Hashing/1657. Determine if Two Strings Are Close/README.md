@@ -1,6 +1,6 @@
 # 📝 1657. Determine if Two Strings Are Close (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/determine-if-two-strings-are-close/?envType=study-plan-v2&envId=leetcode-75)
+🔗 [Problem Link](https://leetcode.com/problems/determine-if-two-strings-are-close)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
