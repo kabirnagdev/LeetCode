@@ -1,6 +1,6 @@
 # 📝 492. Construct the Rectangle (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/construct-the-rectangle/?envType=problem-list-v2&envId=math)
+🔗 [Problem Link](https://leetcode.com/problems/construct-the-rectangle/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Math
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 0 ms
+- **Memory:** 42 MB
 
 ---
 
